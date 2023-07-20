@@ -1,0 +1,116 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* NUOVO */
+
+
+
+/* JUMBOTRON*/
+.jumbotron {
+	background-image:url(../images/jumbotron.jpg);
+	background-repeat:no-repeat;
+	border-radius:6px;
+	background-size:cover;
+	background-position:center;
+	margin-top:30px;
+	margin-bottom:40px;
+	}
+h1.jumbo {
+	color:#FFFFFF;
+	margin-bottom:0;
+	text-align:center;
+	font-size:40px;
+	}
+h2.jumbo {
+	color:#FFFFFF;
+	text-align:center;
+	margin-top:10px;
+	font-size:22px;
+	
+	}
+
+/* featurette*/
+.featurette {
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left:0;
+	margin-right:0;
+	padding-left:0;
+	padding-right:0;
+	}
+.col-image{
+	padding:0;
+	}
+.featurette-image {
+	padding-right:0;
+	width:100%;
+	padding:0;
+    border-radius:6px;
+	}
+	
+.tttt1 {
+	padding-left:10px;
+	margin-bottom:30px;
+	
+}
+.tttt2 {
+	padding-left:10px;
+	margin-bottom:30px;
+
+}
+.tttt3 {
+	padding-left:10px;
+	margin-bottom:30px;
+
+	color:#E3DDD4;
+}
+
+
+	/* carousel */
+.colcarousel {
+	padding:0;
+}
+
+.carousel {
+	margin:0px;
+  max-height: 300px;
+  overflow: hidden;
+    border-radius:6px;
+	    z-index: 1000;
+
+ 	}
+.carousel.slide{
+	overflow:hidden;
+}
+.carousel-inner{
+	overflow:hidden;
+	    border-radius:6px;
+
+}
+.item img {
+    width: auto;
+	min-width:100%;
+	min-height:250px;
+	    border-radius:6px;
+		overflow:hidden;
+
+  }
+  .carousel-control.left, .carousel-control.right {
+background-image:none !important;
+	    border-radius:6px;
+		overflow:hidden;
+
+}
+
+
+
+/*circular image*/
+.img-circle {
+	max-width:180px;
+	margin-top:0px;
+	}
+
+
+h2 {
+	margin:0;
+	}

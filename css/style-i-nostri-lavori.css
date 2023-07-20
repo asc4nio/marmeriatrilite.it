@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	
+	.generalalbumthumb
+	{ margin-top:0;
+	margin-bottom:30px;
+	    border-radius:6px;
+		height:100%;
+		display:inline-table;
+
+	}
+.titlecontainer{
+	margin-top:20px;
+}
+.albumtitle {
+	margin-top:0px;
+	margin-bottom:0;
+	padding-left:30px;
+}
+
+.albumtitletxt {
+	margin-bottom:0;
+}
+
+.galleryrow {
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:30px;
+	border-radius:6px;
+	margin-top:20px;
+}
+.galleryrow1{
+	background-color:#E3DDD4;
+	}
+.galleryrow2{
+	background-color:#C8BAA9;
+	}
+.galleryrow3{
+	background-color:#8A817C;
+	margin-bottom:70px;
+	}
+.titlerow {
+	margin-top:20px;
+	margin-bottom:0;
+
+}
+
+/*modal*/
+.modal-dialog{
+	min-width:100%;
+	margin:0;
+}
+.modal-content {
+}
+.modal-header{
+	border:none;
+	padding-left:20px;
+	margin-bottom:0;
+}
+.modal-title {
+		font-size:22px;
+		padding-left:10px;
+
+}
+.modal-body {
+	border:none;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:30px;
+	padding-top:0;
+}
+.modalimage {
+	width:100%;
+	    border-radius:6px;
+}
+
+h3 {
+	font-size:22px;
+}
+
+h2 {
+	margin-bottom:0;}
